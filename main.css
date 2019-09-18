@@ -1,0 +1,44 @@
+.picture {
+    border: solid orange 6px;
+    height: 100px; 
+    width: 300px;
+    display: block;
+}
+
+.p {
+    display: inline-block;  
+    
+}
+
+.important {
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+
+#text {
+    padding-left: 1%;
+    border: dashed 6px orange;
+    background: yellow;
+    width: 292px;
+    height: 200px;
+    margin-top: 20px;
+    overflow: auto;
+    
+}
+
+body {
+    display: block;
+    padding: 1%;
+    width: 400px;
+    height: 425px;
+}
+
+.content {
+    background: beige;
+    border: solid saddlebrown;
+    padding: 10px;
+    height: 425px;
+}
+
+    
